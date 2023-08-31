@@ -36,6 +36,9 @@ emailInput.setAttribute("placeholder", "Not Filled")
 
 closeModalButton.addEventListener("click", () => {
     modal.style.display = "none"
+    emailInput.removeAttribute("placeholder", "Not Filled")
+    
+    
     
 })
 
