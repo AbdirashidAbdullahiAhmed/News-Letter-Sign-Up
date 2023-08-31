@@ -209,23 +209,15 @@ button:hover{
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: darkgrey;
+    background-color:#36384D;
     color: darkgrey;
 }
 
 .modal-content{
-    /* background-color: rgb(14, 44, 180);
-    margin: 100px auto;
-    width: 400px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 1px solid red; */
-
     position: absolute;
     top: 15%;
     left: 30%;
-    background-color: rgb(14, 44, 180);
+    background-color:#FFF;
     width: 400px;
     padding: 30px;
     /* text-align: center; */
@@ -253,8 +245,9 @@ button:hover{
 .modal-content h3{
     font-size: 40px;
     font-weight: 900;
-   margin-bottom: 5px;
-   padding-left: 10px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    color: #242742;
 
 }
 
@@ -265,6 +258,7 @@ button:hover{
     line-height: 1.6;
     padding-left: 10px;
     padding-right: 10px;
+    color: #242742;
    
     
 }
@@ -353,23 +347,15 @@ button:hover{
         left: 0;
         width: 100%;
         height: 100%;
-        background-color: darkgrey;
+        background-color: #36384D;
         color: darkgrey;
     }
 
     .modal-content{
-        /* background-color: rgb(14, 44, 180);
-        margin: 100px auto;
-        width: 400px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        border: 1px solid red; */
-
         position: absolute;
         top: 15%;
         left: 23%;
-        background-color: rgb(14, 44, 180);
+        background-color:#FFF;
         width: 400px;
         padding: 30px;
         /* text-align: center; */
@@ -397,8 +383,9 @@ button:hover{
     .modal-content h3{
         font-size: 40px;
         font-weight: 900;
-    margin-bottom: 5px;
-    padding-left: 10px;
+        margin-bottom: 5px;
+        padding-left: 10px;
+        color: #242742;
 
     }
 
@@ -409,6 +396,7 @@ button:hover{
         line-height: 1.6;
         padding-left: 10px;
         padding-right: 10px;
+        color: #242742;
     
         
     }
@@ -556,23 +544,17 @@ button:hover{
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: darkgrey;
+    background-color: #FFF;
     color: darkgrey;
 }
 
 .modal-content{
-    /* background-color: rgb(14, 44, 180);
-    margin: 100px auto;
-    width: 400px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 1px solid red; */
+   
 
     position: absolute;
     top: 10%;
     left: 7%;
-    background-color: rgb(14, 44, 180);
+    background-color:#FFF;
     width: 300px;
     padding: 30px;
     /* text-align: center; */
@@ -600,8 +582,9 @@ button:hover{
 .modal-content h3{
     font-size: 40px;
     font-weight: 900;
-   margin-bottom: 5px;
-   padding-left: 10px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    color: #242742;
 
 }
 
@@ -612,6 +595,7 @@ button:hover{
     line-height: 1.6;
     padding-left: 10px;
     padding-right: 10px;
+    color: #242742;
    
     
 }
@@ -822,23 +806,16 @@ button{
         left: 0;
         width: 100%;
         height: 100%;
-        background-color: darkgrey;
+        background-color: #FFF;
         color: darkgrey;
     }
 
     .modal-content{
-        /* background-color: rgb(14, 44, 180);
-        margin: 100px auto;
-        width: 400px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        border: 1px solid red; */
 
         position: absolute;
         top: 7%;
         left: 6%;
-        background-color: rgb(14, 44, 180);
+        background-color:#FFF;
         width: 275px;
         padding: 30px;
         /* text-align: center; */
@@ -866,8 +843,9 @@ button{
     .modal-content h3{
         font-size: 40px;
         font-weight: 900;
-    margin-bottom: 5px;
-    padding-left: 10px;
+        margin-bottom: 5px;
+        padding-left: 10px;
+        color: #242742;
 
     }
 
@@ -878,6 +856,7 @@ button{
         line-height: 1.6;
         padding-left: 10px;
         padding-right: 10px;
+        color: #242742;
     
         
     }
@@ -908,8 +887,6 @@ button{
 
 }
 
-@media only screen and (max-width: 325px){
 
-}
 
 
